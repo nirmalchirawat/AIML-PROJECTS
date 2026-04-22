@@ -1,5 +1,5 @@
 mini projects - loan_risk_analysis
-                personality_pridiction
+                ,personality_pridiction
 
   moderate projects - TAXI_FARE
 
